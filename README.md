@@ -48,6 +48,8 @@ npx skills add EveryInc/charlie-cfo-skill
 
 Проверка: после установки напиши в Claude Code «какие скилы у меня установлены и что они умеют».
 
+Эта же подборка одним файлом — [starter-pack.pdf](starter-pack.pdf).
+
 ## Устройство
 
 ```
